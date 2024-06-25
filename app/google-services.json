@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "404470073416",
+    "firebase_url": "https://barber-aa546-default-rtdb.firebaseio.com",
+    "project_id": "barber-aa546",
+    "storage_bucket": "barber-aa546.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404470073416:android:df5f301394100fbb61b07d",
+        "android_client_info": {
+          "package_name": "com.example.patientdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404470073416-s3mllc20f0fgffmolg1ipnbrn45q2c6k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.patientdemo",
+            "certificate_hash": "905b9e4c478add123e3c65c1ade025c565bb1466"
+          }
+        },
+        {
+          "client_id": "404470073416-9kq6fkultk4rs09vr24fq0s9jpjv4h0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMyrow_3OPNEeWPr94s13WxMRTO6EAdOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404470073416-9kq6fkultk4rs09vr24fq0s9jpjv4h0h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
